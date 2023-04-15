@@ -1,3 +1,6 @@
+
+<img src = "21004063.jpg" alt = "programmer image">
+
 <h1 align="center">Hi 👋, I'm Shashank B N</h1>
 <h3 align="center">A Computer Science and Space enthusiast and tech nerd in general.</h3>
 
