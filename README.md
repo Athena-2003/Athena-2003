@@ -4,8 +4,6 @@
 <h1 align="center">Hi 👋, I'm Shashank B N</h1>
 <h3 align="center">A Computer Science and Space enthusiast and tech nerd in general.</h3>
 
-- 🌱 I’m currently learning **Flutter.**
-
 - 👯 I’m looking to collaborate on **Web Projects.**
 
 - 💬 Ask me about **anything ranging from black holes to any tech topics.**
