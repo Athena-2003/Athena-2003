@@ -1,7 +1,8 @@
 
-<img src = "21004063.jpg" alt = "programmer image">
+<!-- <img src = "21004063.jpg" alt = "programmer image"> -->
 
 <h1 align="center">Hi 👋, I'm Shashank B N</h1>
+[![An image of @athena2003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/athena2003)](https://holopin.io/@athena2003)
 <h3 align="center">A Computer Science and Space enthusiast and tech nerd in general.</h3>
 
 - 👯 I’m looking to collaborate on **Web Projects.**
